@@ -1,16 +1,17 @@
-## Hi there 👋
+## OLÁ ESTE E O MEU PERFIL 👷‍♂️
 
-<!--
-**MayckSilva777/MayckSilva777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mayck Da Silva Ferreira
 
-Here are some ideas to get you started:
+- Estou no curso do Alura
+- Sou estundante do Antonio Florentino
+- Estou desenvolvendo projetos em sala de aula
+- Amo matemática
+- Sou amante de Xadrez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo 📫
+
+00001127938009sp@al.educacao.sp.gov.br
+
+
+
+![](https://media1.tenor.com/m/CRomkUUSh5kAAAAd/miguel-diaz-cobra-kai-season4.gif)
